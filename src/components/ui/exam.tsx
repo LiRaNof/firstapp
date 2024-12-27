@@ -1,15 +1,17 @@
 
+import { Card, CardContent, CardHeader, CardTitle } from "./card";
+import { Link } from "react-router-dom";
+{/*
 import { MdDelete } from "react-icons/md";
 import { v4 as uuid } from "uuid";
 import { FaRegThumbsUp } from "react-icons/fa";
 import { FaRegThumbsDown } from "react-icons/fa";
 import Data from "../interface/data"
-import { Card, CardContent, CardHeader, CardTitle } from "./card";
-import { Link } from "react-router-dom";
+
 import { useLocation } from "react-router-dom";
 import propsOfTodos from "../interface/propsOfTodos";
 import { DateTime } from "luxon";
-
+*/}
 export default function exam() {
     {/*
     const location = useLocation();
