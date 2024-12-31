@@ -18,6 +18,7 @@ export default function APP() {
     <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/exam' element={<Exam />} />
+ 
       </Routes>
     </BrowserRouter>
   );
